@@ -1,4 +1,4 @@
-# Hiii, I'm Anna 👋
+# Hii, I'm Anna 
 
 🎓 
 MSc student in **Data Science and Business Analytics** at Bocconi University, Milan  
