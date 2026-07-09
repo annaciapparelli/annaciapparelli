@@ -2,7 +2,7 @@
 
 🎓 
 MSc student in **Data Science and Business Analytics** at Bocconi University, Milan  
-BSc in **Statistics and Economic Sciences**, University of Milan-Bicocca — **110/110 cum laude**  
+BSc in **Statistics**, University of Milan-Bicocca — **110/110 cum laude**  
 
 💡
 Interested in **machine learning, statistical modeling, NLP, computational statistics, and interpretable data science**  
