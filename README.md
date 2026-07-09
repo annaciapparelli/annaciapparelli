@@ -26,32 +26,13 @@ I am currently looking for internship and entry-level opportunities in:
 
 ---
 
-## 🛠️ Skills
+## 🧰 Technical Stack
 
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-1f77b4?style=flat)
-![Stata](https://img.shields.io/badge/Stata-1f4e79?style=flat)
-![Gretl](https://img.shields.io/badge/Gretl-6A5ACD?style=flat)
-
-### Data Science & Machine Learning
-
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudioide&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-
+```text
+Languages        Python · R · SQL
+Statistics       Bayesian methods · GLMs · MCMC · EM/CEM · PCA · clustering
+Machine Learning scikit-learn · PyTorch · classification · regression · model evaluation
+NLP              BERT · Hugging Face · LDA topic modeling · summarization
+Data Analysis    pandas · NumPy · EDA · data visualization
+Workflow         Git · GitHub · GitLab · Jupyter · RStudio · Linux
+Other tools      SAS · Stata · Gretl
