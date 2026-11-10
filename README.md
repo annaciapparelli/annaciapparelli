@@ -1,4 +1,4 @@
-# Hii, I'm Anna 
+# Anna Ciapparelli
 
 🎓 
 MSc student in **Data Science and Business Analytics** at Bocconi University, Milan  
