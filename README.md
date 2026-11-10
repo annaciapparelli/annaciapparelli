@@ -6,12 +6,10 @@ BSc in **Statistics**, University of Milan-Bicocca
 
 💡
 Interested in **machine learning, statistical modeling, NLP, computational statistics, and interpretable data science**  
-🌌 
-Also curious about space, stars, and astronomy-related data applications  
 
 ---
 
-## 🧠 About me
+## About me
 
 I have a strong background in statistics, probability, statistical inference, and computational methods.  
 I enjoy working on projects that combine rigorous quantitative methods with real-world applications, especially in data analysis, machine learning, NLP, and statistical modeling.
