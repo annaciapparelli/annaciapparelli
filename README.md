@@ -14,14 +14,6 @@ Interested in **machine learning, statistical modeling, NLP, computational stati
 I have a strong background in statistics, probability, statistical inference, and computational methods.  
 I enjoy working on projects that combine rigorous quantitative methods with real-world applications, especially in data analysis, machine learning, NLP, and statistical modeling.
 
-I am currently looking for internship and entry-level opportunities in:
-
-- data analysis
-- data science
-- machine learning
-- quantitative/statistical modeling
-- NLP and applied AI
-
 ---
 
 ## 🧰 Technical Stack
