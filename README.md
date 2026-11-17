@@ -4,9 +4,6 @@
 MSc student in **Data Science and Business Analytics** at Bocconi University, Milan  
 BSc in **Statistics**, University of Milan-Bicocca  
 
-💡
-Interested in **machine learning, statistical modeling, NLP, computational statistics, and interpretable data science**  
-
 ---
 
 ## About me
